@@ -1,4 +1,5 @@
 package triangulo;
+
 import java.util.Scanner;
 public class trian {
 
